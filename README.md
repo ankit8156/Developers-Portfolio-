@@ -1,12 +1,11 @@
-# Visit my portfolio at [dub.sh/ankitdey](https://dub.sh/ankitdey)
+# Visit my portfolio at [https://dub.sh/Ankit-Solanki-]
 
 This is my personal website made purely in javascript using React and Tailwind CSS.
 
 ## Socials
 
-- __Ankit Dey(Me)__
+- __Ankit Solanki(Me)__
   
-    - Portfolio : https://dub.sh/ankitdey/
-    - Twitter : https://twitter.com/marshdit/
-    - Github : https://github.com/ankitdey-marsh/
-    - Mastodon: https://mastodon.social/@ankit_dey
+    - Portfolio : https://dub.sh/Ankit-Solanki-
+    - Twitter : https://x.com/AnkitSo34690475?s=09
+    - Github : https://github.com/ankit8156
