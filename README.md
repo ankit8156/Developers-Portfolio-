@@ -1,4 +1,4 @@
-# Visit my portfolio at [https://dub.sh/Ankit-Solanki-]
+# Visit my portfolio at [https://dub.sh/AnkitSolanki]
 
 This is my personal website made purely in javascript using React and Tailwind CSS.
 
@@ -6,6 +6,6 @@ This is my personal website made purely in javascript using React and Tailwind C
 
 - __Ankit Solanki(Me)__
   
-    - Portfolio : https://dub.sh/Ankit-Solanki-
+    - Portfolio : https://dub.sh/AnkitSolanki
     - Twitter : https://x.com/AnkitSo34690475?s=09
     - Github : https://github.com/ankit8156
